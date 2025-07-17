@@ -36,7 +36,7 @@ This is a portfolio project created to demonstrate my proficiency in data analys
             ├── config.py
         ├── notebook.ipynb
     └── 📁data
-        ├── raw_shelter_data.csv
+        ├── raw_data.csv
     └── 📁products
         └── 📁images
         ├── report.md
