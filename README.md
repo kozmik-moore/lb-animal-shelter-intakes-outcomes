@@ -1,5 +1,5 @@
 <!-- omit from toc -->
-# Project Title
+# Long Beach Animal Shelter Intakes and Outcomes
 
 *A short description for this project.*
 
@@ -48,7 +48,7 @@ This is a portfolio project created to demonstrate my proficiency in data analys
 
 ## Data Sources
 
-- **File**: `raw_shelter_data.csv`
+- **File**: `raw_data.csv`
 - **Source**: [Long Beach Data Portal](https://data.longbeach.gov/explore/dataset/animal-shelter-intakes-and-outcomes/)
 - **Description**: Contains intake and outcome data for Long Beach, CA, starting in 2017.
 
