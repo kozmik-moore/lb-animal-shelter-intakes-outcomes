@@ -23,7 +23,7 @@
 
 This project performs exploratory data analysis on a dataset of animal shelter intakes and outcomes using the Python libraries `pandas` and `seaborn`. The goal is to uncover trends, detect anomalies, and visualize key insights to support data-driven decision-making for various city shareholders including shelter managers, animal welfare advocates, government officials, local citizens, and internal analysts.
 
-This is a portfolio project created to demonstrate proficiency in data analysis, data cleaning, and data visualization using Python. It highlights my ability to work with real-world datasets, derive meaningful insights, and communicate results clearly through code and visualizations.
+This is a portfolio project created to demonstrate my proficiency in data analysis, data cleaning, and data visualization using Python. It highlights my ability to work with real-world datasets, derive meaningful insights, and communicate results clearly through code and visualizations.
 
 ## Project Structure
 
@@ -47,10 +47,6 @@ This is a portfolio project created to demonstrate proficiency in data analysis,
 ```
 
 ## Data Sources
-
-List the datasets used in your analysis, with a brief description for each.
-
-Example:
 
 - **File**: `raw_shelter_data.csv`
 - **Source**: [Long Beach Data Portal](https://data.longbeach.gov/explore/dataset/animal-shelter-intakes-and-outcomes/)
@@ -122,6 +118,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Kozmik Moore 
-Email: koz.moore@gmail.com
-GitHub: [@kozmik-moore](https://github.com/kozmik-moore)
+Kozmik Moore\
+Email: koz.moore@gmail.com\
+GitHub: [@kozmik-moore](https://github.com/kozmik-moore)\
+LinkedIn: [@kozmik-moore](www.linkedin.com/in/kozmik-moore)
