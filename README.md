@@ -1,9 +1,10 @@
+<!-- omit from toc -->
 # Project Title
 
 *A short description for this project.*
 
+<!-- omit from toc -->
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Project Structure](#project-structure)
 - [Data Sources](#data-sources)
@@ -20,7 +21,7 @@
 
 ## Overview
 
-This project performs exploratory data analysis on a dataset of animal shelter intakes and outcomes using the Python libraries `pandas` and `seaborn`. The goal is to uncover trends, detect anomalies, and visualize key insights to support data-driven decision-making for various shareholders including shelter managers, animal welfare advocates, government officials, local citizens, and internal analysts.
+This project performs exploratory data analysis on a dataset of animal shelter intakes and outcomes using the Python libraries `pandas` and `seaborn`. The goal is to uncover trends, detect anomalies, and visualize key insights to support data-driven decision-making for various city shareholders including shelter managers, animal welfare advocates, government officials, local citizens, and internal analysts.
 
 This is a portfolio project created to demonstrate proficiency in data analysis, data cleaning, and data visualization using Python. It highlights my ability to work with real-world datasets, derive meaningful insights, and communicate results clearly through code and visualizations.
 
@@ -94,7 +95,7 @@ Open and run notebooks from the [`/code`](/code/) directory to explore data and 
 
 ## Conclusions
 
-See full visual report in `output/report.html`.
+See full visual report in [`/products/report.md`](/products/report.md).
 
 ## Technologies Used
 
@@ -121,6 +122,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Your Name  
-Email: your.email@example.com  
-GitHub: [@yourhandle](https://github.com/yourhandle)
+Kozmik Moore 
+Email: koz.moore@gmail.com
+GitHub: [@kozmik-moore](https://github.com/kozmik-moore)
