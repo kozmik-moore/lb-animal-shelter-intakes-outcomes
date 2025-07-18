@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Project Structure](#project-structure)
-- [Data Sources](#data-sources)
+- [Data Source(s)](#data-sources)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
   - [Install dependencies](#install-dependencies)
@@ -34,6 +34,30 @@ This is a portfolio project created to demonstrate my proficiency in data analys
             ├── config.py
         ├── notebook.ipynb
     └── 📁data
+        └── 📁variable counts
+            ├── animal_type.csv
+            ├── crossing.csv
+            ├── date_of_birth.csv
+            ├── geopoint.csv
+            ├── intake_condition.csv
+            ├── intake_date.csv
+            ├── intake_duration.csv
+            ├── intake_is_dead.csv
+            ├── intake_subtype.csv
+            ├── intake_type.csv
+            ├── is_current_month.csv
+            ├── jurisdiction.csv
+            ├── latitude.csv
+            ├── longitude.csv
+            ├── outcome_date.csv
+            ├── outcome_is_dead.csv
+            ├── outcome_subtype.csv
+            ├── outcome_type.csv
+            ├── primary_color.csv
+            ├── reason_for_intake.csv
+            ├── secondary_color.csv
+            ├── sex.csv
+            ├── was_outcome_alive.csv
         ├── raw_data.csv
     └── 📁products
         └── 📁images
@@ -44,9 +68,9 @@ This is a portfolio project created to demonstrate my proficiency in data analys
     └── requirements.txt
 ```
 
-## Data Sources
+## Data Source(s)
 
-- **File**: `raw_data.csv`
+- **File**: [`raw_data.csv`](./data/raw_data.csv)
 - **Source**: [Long Beach Data Portal](https://data.longbeach.gov/explore/dataset/animal-shelter-intakes-and-outcomes/)
 - **Description**: Contains intake and outcome data for Long Beach, CA, starting in 2017.
 
