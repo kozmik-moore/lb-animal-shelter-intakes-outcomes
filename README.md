@@ -58,6 +58,7 @@ This is a portfolio project created to demonstrate my proficiency in data analys
             ├── secondary_color.csv
             ├── sex.csv
             ├── was_outcome_alive.csv
+        ├── raw_animal_names.csv
         ├── raw_data.csv
     └── 📁products
         └── 📁images
