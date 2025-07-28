@@ -58,6 +58,7 @@ This is a portfolio project created to demonstrate my proficiency in data analys
             ├── secondary_color.csv
             ├── sex.csv
             ├── was_outcome_alive.csv
+        ├── checkpoint_processed_crossings_wo_zip.csv
         ├── processed_animal_names.csv
         ├── processed_crossings_unique.csv
         ├── processed_data.csv
