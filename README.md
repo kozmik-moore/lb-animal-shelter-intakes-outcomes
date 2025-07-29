@@ -34,6 +34,9 @@ This is a portfolio project created to demonstrate my proficiency in data analys
             ├── config.py
         ├── notebook.ipynb
     └── 📁data
+        └── 📁checkpoints
+            ├── mangled_zip_codes_after.csv
+            ├── mangled_zip_codes_before.csv
         └── 📁variable counts
             ├── animal_type.csv
             ├── crossing.csv
