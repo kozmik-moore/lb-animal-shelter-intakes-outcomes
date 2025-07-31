@@ -28,6 +28,7 @@ This is a portfolio project created to demonstrate my proficiency in data analys
 ```
 └── 📁lb-animal-shelter-intakes-outcomes
     └── 📁assets
+        ├── crossing_required_fixes.md
     └── 📁code
         └── 📁utilities
             ├── __init__.py
@@ -37,6 +38,9 @@ This is a portfolio project created to demonstrate my proficiency in data analys
         └── 📁checkpoints
             ├── mangled_zip_codes_after.csv
             ├── mangled_zip_codes_before.csv
+            ├── unique_crossings_wo_zip_before.csv
+        └── 📁corrections
+            ├── zip_code_corrections_updated.csv
         └── 📁variable counts
             ├── animal_type.csv
             ├── crossing.csv
@@ -61,7 +65,6 @@ This is a portfolio project created to demonstrate my proficiency in data analys
             ├── secondary_color.csv
             ├── sex.csv
             ├── was_outcome_alive.csv
-        ├── checkpoint_processed_crossings_wo_zip.csv
         ├── processed_animal_names.csv
         ├── processed_crossings_unique.csv
         ├── processed_data.csv
